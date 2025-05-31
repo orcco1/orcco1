@@ -11,7 +11,7 @@ I'm a passionate software engineer focused on building robust embedded systems a
 
 - 👨‍💻 Working as a Linux Embedded Software Engineer at **John Deere**
 - 🌐 Experience with both desktop and web development (Python, C++, Laravel, Angular, Django, Qt)
-- 🧠 Computer Science
+- 🧠 Computer Science && Software Engineering
 - 🧪 Passionate about clean code, testing, and software architecture
 - 🤝 Contributor to **open-source** projects like [minizip](https://github.com/nmoinvaz/minizip)
 - 🏆 Certified in Open Data Science by BEDU & Santander
