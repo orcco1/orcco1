@@ -9,7 +9,7 @@ I'm a passionate software engineer focused on building robust embedded systems a
 
 ## 🚀 About Me
 
-- 👨‍💻 Working as an Linux Embedded Software Engineer at **John Deere**
+- 👨‍💻 Working as a Linux Embedded Software Engineer at **John Deere**
 - 🌐 Experience with both desktop and web development (Python, C++, Laravel, Angular, Django, Qt)
 - 🧠 Computer Science
 - 🧪 Passionate about clean code, testing, and software architecture
